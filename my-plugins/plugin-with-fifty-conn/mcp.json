@@ -100,26 +100,6 @@
     "mercury-mcp": {
       "type": "streamable-http",
       "url": "https://docs.mercury.com/mcp"
-    },
-    "modern-treasury-mcp": {
-      "type": "streamable-http",
-      "url": "https://docs.moderntreasury.com/mcp"
-    },
-    "neon-docs-mcp": {
-      "type": "streamable-http",
-      "url": "https://neon.com/docs/mcp"
-    },
-    "nuxt-docs-mcp": {
-      "type": "streamable-http",
-      "url": "https://nuxt.com/mcp"
-    },
-    "omni-mcp": {
-      "type": "streamable-http",
-      "url": "https://docs.omni.co/mcp"
-    },
-    "onetrust-mcp": {
-      "type": "streamable-http",
-      "url": "https://developer.onetrust.com/mcp"
     }
   }
 }
