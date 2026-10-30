@@ -4,6 +4,10 @@
     "activecampaign-mcp": {
       "type": "streamable-http",
       "url": "https://developers.activecampaign.com/mcp"
-}
+},
+    "assemblyai-mcp": {
+      "type": "streamable-http",
+      "url": "https://www.assemblyai.com/docs/mcp"
+    }
   }
 }
