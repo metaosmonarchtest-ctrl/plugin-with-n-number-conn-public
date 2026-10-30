@@ -80,6 +80,46 @@
     "javadocs-dev-mcp": {
       "type": "streamable-http",
       "url": "https://www.javadocs.dev/mcp"
+    },
+    "langfuse-docs-mcp": {
+      "type": "streamable-http",
+      "url": "https://langfuse.com/api/mcp"
+    },
+    "loops-mcp": {
+      "type": "streamable-http",
+      "url": "https://loops.so/docs/mcp"
+    },
+    "mdn-web-docs-mcp-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.mdn.mozilla.net/mcp"
+    },
+    "meilisearch-mcp": {
+      "type": "streamable-http",
+      "url": "https://www.meilisearch.com/docs/mcp"
+    },
+    "mercury-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.mercury.com/mcp"
+    },
+    "modern-treasury-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.moderntreasury.com/mcp"
+    },
+    "neon-docs-mcp": {
+      "type": "streamable-http",
+      "url": "https://neon.com/docs/mcp"
+    },
+    "nuxt-docs-mcp": {
+      "type": "streamable-http",
+      "url": "https://nuxt.com/mcp"
+    },
+    "omni-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.omni.co/mcp"
+    },
+    "onetrust-mcp": {
+      "type": "streamable-http",
+      "url": "https://developer.onetrust.com/mcp"
     }
   }
 }
