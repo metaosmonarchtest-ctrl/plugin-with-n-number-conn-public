@@ -80,10 +80,6 @@
     "javadocs-dev-mcp": {
       "type": "streamable-http",
       "url": "https://www.javadocs.dev/mcp"
-    },
-    "langfuse-docs-mcp": {
-      "type": "streamable-http",
-      "url": "https://langfuse.com/api/mcp"
     }
   }
 }
