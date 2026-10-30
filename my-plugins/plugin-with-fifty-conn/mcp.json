@@ -8,6 +8,38 @@
     "assemblyai-mcp": {
       "type": "streamable-http",
       "url": "https://www.assemblyai.com/docs/mcp"
+    },
+    "attio-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.attio.com/mcp"
+    },
+    "auth0-mcp": {
+      "type": "streamable-http",
+      "url": "https://auth0.com/docs/mcp"
+    },
+    "braintrust-mcp": {
+      "type": "streamable-http",
+      "url": "https://www.braintrust.dev/docs/mcp"
+    },
+    "cal-com-mcp": {
+      "type": "streamable-http",
+      "url": "https://cal.com/docs/mcp"
+    },
+    "checkly-mcp": {
+      "type": "streamable-http",
+      "url": "https://www.checklyhq.com/docs/mcp"
+    },
+    "chronosphere-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.chronosphere.io/mcp"
+    },
+    "clickhouse-mcp": {
+      "type": "streamable-http",
+      "url": "https://clickhouse.com/docs/mcp"
+    },
+    "context7-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.context7.com/mcp"
     }
   }
 }
