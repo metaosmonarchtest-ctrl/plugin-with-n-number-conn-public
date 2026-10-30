@@ -40,6 +40,46 @@
     "context7-mcp": {
       "type": "streamable-http",
       "url": "https://mcp.context7.com/mcp"
+    },
+    "convex-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.convex.dev/mcp"
+    },
+    "deepl-mcp": {
+      "type": "streamable-http",
+      "url": "https://developers.deepl.com/mcp"
+    },
+    "deepwiki-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.deepwiki.com/mcp"
+    },
+    "e2b-mcp": {
+      "type": "streamable-http",
+      "url": "https://e2b.dev/docs/mcp"
+    },
+    "firecrawl-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.firecrawl.dev/mcp"
+    },
+    "gorgias-mcp": {
+      "type": "streamable-http",
+      "url": "https://developers.gorgias.com/mcp"
+    },
+    "hibob-mcp": {
+      "type": "streamable-http",
+      "url": "https://apidocs.hibob.com/mcp"
+    },
+    "honeycomb-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.honeycomb.io/mcp"
+    },
+    "infisical-mcp": {
+      "type": "streamable-http",
+      "url": "https://infisical.com/docs/mcp"
+    },
+    "javadocs-dev-mcp": {
+      "type": "streamable-http",
+      "url": "https://www.javadocs.dev/mcp"
     }
   }
 }
