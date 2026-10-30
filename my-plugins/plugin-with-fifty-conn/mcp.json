@@ -84,22 +84,6 @@
     "langfuse-docs-mcp": {
       "type": "streamable-http",
       "url": "https://langfuse.com/api/mcp"
-    },
-    "loops-mcp": {
-      "type": "streamable-http",
-      "url": "https://loops.so/docs/mcp"
-    },
-    "mdn-web-docs-mcp-mcp": {
-      "type": "streamable-http",
-      "url": "https://mcp.mdn.mozilla.net/mcp"
-    },
-    "meilisearch-mcp": {
-      "type": "streamable-http",
-      "url": "https://www.meilisearch.com/docs/mcp"
-    },
-    "mercury-mcp": {
-      "type": "streamable-http",
-      "url": "https://docs.mercury.com/mcp"
     }
   }
 }
